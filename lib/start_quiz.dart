@@ -13,8 +13,8 @@ class StartQuiz extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         children: [
           Image.asset(
-            'assets/images/quiz.png',
-            width: 350,
+            'assets/images/dsa_new.png',
+            width: 300,
             //color: const Color.fromARGB(106, 255, 255, 255), //For transparent Image
           ),
       
